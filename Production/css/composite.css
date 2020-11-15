@@ -1,0 +1,10 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+/* General Reset */
+*{
+  margin: 0;
+  padding: 0;
+}
+
+/* Body Base */
