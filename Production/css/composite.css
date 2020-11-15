@@ -1,10 +1,46 @@
 /* Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Indie+Flower&family=Lato&family=Open+Sans+Condensed&family=Oxygen&family=Pacifico&family=Raleway&family=Roboto+Mono&family=Source+Sans+Pro&display=swap');
 
 /* General Reset */
-*{
+* {
   margin: 0;
   padding: 0;
 }
 
 /* Body Base */
+body {
+  font-family: sans-serif;
+  background: #fff;
+  line-height: 1.5;
+}
+
+/* Font Classes */
+
+.font-os {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.font-abel {
+  font-family: 'Abel', sans-serif;
+}
+.font-flower {
+  font-family: 'Indie Flower', cursive;
+}
+.font-lato {
+  font-family: 'Lato', sans-serif;
+}
+.font-oxygen {
+  font-family: 'Oxygen', sans-serif;
+}
+.font-pacific {
+  font-family: 'Pacifico', cursive;
+}
+.font-raleway {
+  font-family: 'Raleway', sans-serif;
+}
+.font-robot {
+  font-family: 'Roboto Mono', monospace;
+}
+.font-sans {
+  font-family: 'Source Sans Pro', sans-serif;
+}
