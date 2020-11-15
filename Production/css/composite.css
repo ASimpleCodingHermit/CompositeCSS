@@ -56,16 +56,14 @@ h6 {
   display: block;
 }
 
-<<<<<<< HEAD
 /* Paragraphs */
-p{
+p {
   margin-bottom: 0.4rem;
   display: block;
 }
-=======
 /* PADDING SECTION */
 /* Padding Around */
-.p-1 {.
+.p-1 {
   padding: 1rem;
 }
 .p-2 {
@@ -157,9 +155,6 @@ p{
 }
 
 /* MARGIN SECTION */
-<<<<<<< HEAD
->>>>>>> development
-=======
 /* Margin Around */
 .m-1 {
   margin: 1rem;
@@ -251,4 +246,3 @@ p{
 .my-4 {
   margin: 4rem 0;
 }
->>>>>>> development
