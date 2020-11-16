@@ -246,3 +246,20 @@ p {
 .my-4 {
   margin: 4rem 0;
 }
+
+/* Alignment Classes */
+.left{
+  text-align: left;
+}
+
+.right{
+  text-align: right;
+}
+
+.center{
+  text-align: center;
+}
+
+.justify{
+  text-align: justify;
+}
